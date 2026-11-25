@@ -1,0 +1,6 @@
+{
+  "name": "MECAI.ai — Future-Ready AI Ecosystem",
+  "description": "Aplikasi mobile web (PWA) resmi ekosistem MECAI.ai (PT MEC Akses Inovasi): verifikasi sertifikat & produk MPV, simulasi & pendaftaran TOEFL PBT / ESP, serta informasi legalitas PSE Komdigi dan asisten MECI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
